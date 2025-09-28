@@ -6,9 +6,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **Remote Deposit Capture Systems**  
+- 🔭 Currently building **RAG document assitant**  
 - 🌱 Exploring **Next.js, Microservices, and GenAI integrations**  
-- 🤝 Open to collaborations on [Cinematic 🎬 (Real-time Movie Ticket Booking System)](https://github.com/Atharvamaid/real-time-movie-booking-system)  
+- 🤝 Open to collaborations on [RAG document bot 🎬 (RAG based AI chat bot for documents)](https://github.com/Atharvamaid/RAG-document-assitant)  
 - 💬 Ask me about **React, Spring Boot, System Design, and GenAI Applications**  
 - 📫 Reach me at **atharvamaid@gmail.com**  
 
