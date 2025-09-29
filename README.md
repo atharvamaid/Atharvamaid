@@ -9,7 +9,7 @@
 - 🔭 Currently building **RAG document assitant**  
 - 🌱 Exploring **Next.js, Microservices, and GenAI integrations**  
 - 🤝 Open to collaborations on [RAG document bot 🎬 (RAG based AI chat bot for documents)](https://github.com/Atharvamaid/RAG-document-assitant)  
-- 💬 Ask me about **React, Spring Boot, System Design, and GenAI Applications**  
+- 💬 Ask me about **React, Node Js, System Design, and GenAI Applications**  
 - 📫 Reach me at **atharvamaid@gmail.com**  
 
 ---
