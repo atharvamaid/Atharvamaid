@@ -46,10 +46,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvamaid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvamaid&layout=compact&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharvamaid&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharvamaid&theme=tokyonight" />
