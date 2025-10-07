@@ -13,7 +13,7 @@
 - 💻 Skilled in **React, Spring Boot, Node Js and REST APIs** with hands-on experience in scalable web apps.  
 - ⚡ Passionate about **automation, AI integration, and clean UI/UX**.  
 - 🎯 Goal: To combine **AI + Full Stack** for intelligent, real-world solutions.  
-- 📫 Reach me at: **atharvamaid09@gmail.com**
+- 📫 Reach me at: **atharvamaid@gmail.com**
 
 ---
 
