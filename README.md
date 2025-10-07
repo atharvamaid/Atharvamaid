@@ -44,6 +44,9 @@
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atharvamaid" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvamaid&layout=compact&theme=tokyonight" />
