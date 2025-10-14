@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me  
 
 - 🌱 I’m currently **exploring Gen AI** and building **AI-powered full-stack applications**.  
-- 💻 Skilled in **React, Spring Boot, Node Js and REST APIs** with hands-on experience in scalable web apps.  
+- 💻 Skilled in **React, Spring Boot, Node Js and REST APIs** with hands-on experience in scalable web applications.  
 - ⚡ Passionate about **automation, AI integration, and clean UI/UX**.  
 - 🎯 Goal: To combine **AI + Full Stack** for intelligent, real-world solutions.  
 - 📫 Reach me at: **atharvamaid@gmail.com**
